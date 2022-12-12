@@ -1,0 +1,37 @@
+*{
+	font-family: algerian;
+]
+}
+
+.konten {
+	width: 100%
+}
+.header {
+	list-style: none;
+
+}
+.exp {
+	color: blue;
+}
+.about {
+	color: blue;
+}
+.contact {
+	color: blue;
+}
+ul {
+	list-style: none;
+}
+img {
+	width: 100%
+}
+@media(min-width:671px) and (max-width:1024px) {
+	.konten {
+		width: 100%
+	}
+}
+
+.darkmode{
+	background-color: black;
+	color: white;
+}
